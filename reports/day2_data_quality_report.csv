@@ -1,0 +1,16 @@
+column,data_type,missing_values,missing_percentage,unique_values
+name,string,0,0.0,49992
+age,int64,0,0.0,77
+gender,string,0,0.0,2
+blood_type,string,0,0.0,8
+medical_condition,string,0,0.0,6
+date_of_admission,datetime64[us],0,0.0,1827
+doctor,string,0,0.0,40341
+hospital,string,0,0.0,39876
+insurance_provider,string,0,0.0,5
+billing_amount,float64,0,0.0,50000
+room_number,int64,0,0.0,400
+admission_type,string,0,0.0,3
+discharge_date,datetime64[us],0,0.0,1856
+medication,string,0,0.0,5
+test_results,string,0,0.0,3
