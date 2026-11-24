@@ -1,0 +1,12 @@
+kpi_name,kpi_value
+total_records,54966.0
+unique_hospitals,39876.0
+average_age,51.54
+average_billing_amount,25544.31
+total_recorded_billing_amount,1404068339.23
+average_length_of_stay_days,15.5
+median_length_of_stay_days,15.0
+negative_date_durations_flagged,0.0
+unique_medical_conditions,6.0
+unique_insurance_providers,5.0
+unique_admission_types,3.0

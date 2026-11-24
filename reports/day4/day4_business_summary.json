@@ -1,0 +1,32 @@
+{
+    "project": "Healthcare Data Analytics",
+    "day": 4,
+    "analysis": "Business Analysis and KPI Development",
+    "kpis": {
+        "total_records": 54966,
+        "unique_hospitals": 39876,
+        "average_age": 51.54,
+        "average_billing_amount": 25544.31,
+        "total_recorded_billing_amount": 1404068339.23,
+        "average_length_of_stay_days": 15.5,
+        "median_length_of_stay_days": 15.0,
+        "negative_date_durations_flagged": 0,
+        "unique_medical_conditions": 6,
+        "unique_insurance_providers": 5,
+        "unique_admission_types": 3
+    },
+    "insights": [
+        "Most frequent medical condition category: Arthritis (9218 records).",
+        "Hospital with the highest record count: LLC Smith (44 records).",
+        "Most frequent admission category: Elective (18473 records).",
+        "Insurance provider with the most records: Cigna (11139 records).",
+        "Average recorded length of stay: 15.5 days.",
+        "Average recorded billing amount: 25544.31."
+    ],
+    "limitations": [
+        "Record counts are not necessarily unique patient counts.",
+        "Billing amounts are recorded amounts, not confirmed payments or revenue.",
+        "Hospital record volume does not measure hospital quality.",
+        "These are descriptive dataset-level findings, not clinical recommendations."
+    ]
+}

@@ -1,0 +1,6 @@
+1. Most frequent medical condition category: Arthritis (9218 records).
+2. Hospital with the highest record count: LLC Smith (44 records).
+3. Most frequent admission category: Elective (18473 records).
+4. Insurance provider with the most records: Cigna (11139 records).
+5. Average recorded length of stay: 15.5 days.
+6. Average recorded billing amount: 25544.31.

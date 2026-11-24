@@ -1,0 +1,4 @@
+admission_type,record_count,average_billing_amount,total_recorded_billing,average_stay_days
+Elective,18473,25612.14,473133056.1826231,15.51
+Emergency,18102,25505.33,461697524.19967675,15.58
+Urgent,18391,25514.53,469237758.845149,15.4
