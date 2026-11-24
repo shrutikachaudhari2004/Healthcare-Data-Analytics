@@ -1,0 +1,16 @@
+column,missing_values,missing_percentage
+name,0,0.0
+age,0,0.0
+gender,0,0.0
+blood_type,0,0.0
+medical_condition,0,0.0
+date_of_admission,0,0.0
+doctor,0,0.0
+hospital,0,0.0
+insurance_provider,0,0.0
+billing_amount,0,0.0
+room_number,0,0.0
+admission_type,0,0.0
+discharge_date,0,0.0
+medication,0,0.0
+test_results,0,0.0

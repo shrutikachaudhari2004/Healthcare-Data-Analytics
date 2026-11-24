@@ -1,0 +1,34 @@
+{
+    "total_records": 54966,
+    "total_columns": 15,
+    "duplicate_records": 0,
+    "total_missing_cells": 0,
+    "numeric_columns": [
+        "age",
+        "billing_amount",
+        "room_number"
+    ],
+    "categorical_columns": [
+        "name",
+        "gender",
+        "blood_type",
+        "medical_condition",
+        "date_of_admission",
+        "doctor",
+        "hospital",
+        "insurance_provider",
+        "admission_type",
+        "discharge_date",
+        "medication",
+        "test_results"
+    ],
+    "average_age": 51.54,
+    "average_billing": 25544.31,
+    "top_medical_conditions": {
+        "Arthritis": 9218,
+        "Diabetes": 9216,
+        "Hypertension": 9151,
+        "Obesity": 9146,
+        "Cancer": 9140
+    }
+}
